@@ -1,4 +1,4 @@
-module Distance (
+module HMenu.Matching.Distance (
   editDistance
 ) where
 
