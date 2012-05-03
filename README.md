@@ -1,0 +1,4 @@
+hmenu
+=====
+
+Haskell application launcher
